@@ -1,0 +1,17 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sample",
+    "dev": "nodemon sample"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.2",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7"
+  }
+}
